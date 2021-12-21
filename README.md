@@ -5,7 +5,4 @@ Please find the implemented project in our main file 'ML Group Project - Diabete
 Raw data as well as generated training and test datasets can be accessed in the 'data' directory, data distribution plots in the 'plots' directory.
 
 Contributors:
-Douglas NILSSON
-Aditya MOITRA
-Jaona ANDRIAMASY
-Fabio FRANK
+Douglas NILSSON, Aditya MOITRA, Jaona ANDRIAMASY, Fabio FRANK
